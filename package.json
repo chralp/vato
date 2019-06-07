@@ -1,0 +1,16 @@
+{
+    "name": "vato",
+    "version": "1.0.0",
+    "description": "",
+    "main": "vato.js",
+    "dependencies": {
+	"@slack/client": "^5.0.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+	"start": "node vato.js",
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
